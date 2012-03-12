@@ -9,6 +9,8 @@ Thumbs.db
 *_i.c
 *_p.c
 *.ncb
+*.sdf
+*.opensdf
 *.suo
 *.sln.docstates
 *.tlb
